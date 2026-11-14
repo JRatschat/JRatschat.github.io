@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jratschat.github.io/sitemap.xml
